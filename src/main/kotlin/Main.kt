@@ -21,7 +21,7 @@ import androidx.compose.ui.window.application
 @Composable
 @Preview
 fun App() {
-    var text by remember { mutableStateOf("Hello, World!") }
+    var text by remember { mutableStateOf("fuckyou, World!") }
 
     MaterialTheme {
         Button(onClick = {
